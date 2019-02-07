@@ -4,7 +4,7 @@ Assignment_1.pde
 
 Author: Hamza Haider
 
-Summary: Recreating, in Processing, Schematic Composition by Sophie Taeuber-Arp which is a piece of art in the Geometric Abstraction collection from Google Arts & Culture
+Summary: Recreating, in Processing, Schematic Composition by Sophie Taeuber-Arp which is a piece of art in the Geometric Abstraction collection from Google Arts & Culture https://artsandculture.google.com/asset/schematic-composition/CAHQW3Vwuf5e0g
 
 */
 
