@@ -1,0 +1,14 @@
+Welcome to Thanos vs Captain America 2-player game.
+You can either play as Thanos by using keys W and S 
+to move Thanos up and down.
+Or you can play as Captain America by using the up 
+and down arrow keys.
+
+Your objective is to deflect Thanos's hand. The 
+player who is able to prevent the opponent from 
+deflecting Thanos's hand gets one point.
+
+The player to get 3 points first wins.
+
+Click here to start the game.
+
