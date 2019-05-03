@@ -1,10 +1,9 @@
       /*
-      Midterm Assignment
+      Assignment 10
       Thanos_vs_Captain America.pde
       Author: Hamza Haider
       
-      Summary: A OOP based game where Thanos aka player one basically plays a game of ping pong with Captain America aka player two.
-      
+      Summary: The main focus of the assignment was to pick a multimedia category (image, sound, or video) and create a sketch that uses it. For extra credit, pick another category and create a second sketch, or incorporate a second category in your first sketch.
       
       */
       
